@@ -94,4 +94,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-*Developed as part of the Fuel Payload Optimization project using Deep Reinforcement Learning.*
+*Developed as part of the Fuel Payload Optimization project using Deep Reinforcement Learning.
